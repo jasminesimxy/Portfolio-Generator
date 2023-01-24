@@ -1,0 +1,23 @@
+{
+  "name": "14-ins_inquirer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasminesimxy/Portfolio-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasminesimxy/Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/jasminesimxy/Portfolio-Generator#readme"
+}
